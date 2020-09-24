@@ -1,2 +1,2 @@
 # solvd-cv
-https://your-github-account.github.io/rsschool-cv/cv
+https://Nataliia-Allia.github.io/rsschool-cv/cv
